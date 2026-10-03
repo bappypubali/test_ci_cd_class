@@ -2,7 +2,7 @@ from itertools import combinations
 
 # Transaction database
 transactions = [
-    {'Milk', 'Bread', 'Butter'},
+    {'Milk', 'Bread'},
     {'Bread', 'Butter', 'Egg'},
     {'Milk', 'Bread', 'Egg'},
     {'Milk', 'Butter'},
